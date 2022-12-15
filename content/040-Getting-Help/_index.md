@@ -3,7 +3,6 @@ title: "Support"
 chapter: false
 weight: 05
 ---
-{{< operataGtag >}}
 ## We're here to help
 
 <br />
@@ -25,4 +24,3 @@ Chat with us now using Intercom Live Chat (bottom right corner of this website)
 
 #### Email
 An oldie but a goodie [help@operata.com](mailto:help@operata.com)
-{{< operataIntercom >}}
