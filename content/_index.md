@@ -3,7 +3,6 @@ title: "Operata Workshop"
 chapter: true
 weight: 4
 ---
-{{< operataGtag >}}
 # Welcome to Operata for Genesys Cloud CX
 
 ![Operata and Genesys Image](images/workshop-landing.png 'Operata product screen alongside Genesys')
@@ -19,6 +18,3 @@ weight: 4
 &nbsp;
 
 ### Workshop Topics
-
-{{% children showhidden="false" %}}
-{{< operataIntercom >}}
