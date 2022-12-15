@@ -1,16 +1,24 @@
 ---
-title: "Genesys Workshop"
+title: "Operata Workshop"
 chapter: true
-weight: 1
+weight: 4
 ---
+{{< operataGtag >}}
+# Welcome to Operata for Genesys Cloud CX
 
-# Genesys Workshop
+![Operata and Genesys Image](images/workshop-landing.png 'Operata product screen alongside Genesys')
 
-### Welcome
+### In this workshop, you will learn...
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+1. What Operata is all about
+2. An overview of the platform architecure & integration with Genesys Cloud CX
+3. How to use AppFoundry to get started instantly with a free 30-day trial
+4. Install the Chrome Extension to start sending data to Operata
+5. Use Operata Playbooks to start improving your Customer & Agent experience.
 
-### Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
+&nbsp;
+
+### Workshop Topics
+
+{{% children showhidden="false" %}}
+{{< operataIntercom >}}
