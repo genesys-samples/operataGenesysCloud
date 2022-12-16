@@ -4,6 +4,9 @@ chapter: false
 weight: 30
 ---
 {{< operataGtag >}}
-<a href="https://operata.com/assets/shared_assets/operata-market-brochure.pdf" target="_blank"><img src="/images/market_brochure_page1.png"></a>
-<a href="https://operata.com/assets/shared_assets/operata-market-brochure.pdf" target="_blank"><img src="/images/market_brochure_page2.png"></a>
+
+![Brochure Page 1](/images/market_brochure_page1.png 'Brochure Page 1')
+
+![Brochure Page 2](/images/market_brochure_page2.png 'Brochure Page 2')
+
 {{< operataIntercom >}}
