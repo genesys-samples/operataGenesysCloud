@@ -25,3 +25,5 @@ Operata has four shortcodes that are used throughout out content and are found i
 `operataHelp.html` : TypeForm integration
 
 `operataIntercom.html` : Intercom in-app messenger
+
+`operataPlaybookGuide.html`: Formatting for table content
